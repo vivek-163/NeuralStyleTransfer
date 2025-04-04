@@ -15,8 +15,8 @@ This project implements **Neural Style Transfer (NST)** using a **pre-trained VG
 ## 📂 Project Structure
 
 ```
-├── neural_style_transfer.ipynb  # Jupyter Notebook containing the NST implementation
-├── README.md                    # Project documentation
+├── Neural_Style_Transfer.ipynb   # Jupyter Notebook containing the NST implementation
+├── README.md                     # Project documentation
 ├── LICENSE                       # Open-source license file
 ```
 
@@ -24,7 +24,7 @@ This project implements **Neural Style Transfer (NST)** using a **pre-trained VG
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/vivek-163/NeuralStyleTransfer.git
    cd your-repo
    ```
 2. **Install dependencies**
@@ -33,7 +33,7 @@ This project implements **Neural Style Transfer (NST)** using a **pre-trained VG
    ```
 3. **Run the Jupyter Notebook**
    ```bash
-   jupyter notebook neural_style_transfer.ipynb
+   jupyter notebook Neural_Style_Transfer.ipynb
    ```
 
 ## 📸 Example Output
